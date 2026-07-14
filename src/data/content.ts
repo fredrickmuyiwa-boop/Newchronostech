@@ -212,20 +212,15 @@ export const CONTACT_ITEMS: ContactItem[] = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'hello@chronostech.com',
-    href: 'mailto:hello@chronostech.com',
+    value: 'mailsolutions@chronostech.space',
+    href: 'mailto:mailsolutions@chronostech.space',
   },
   {
-    icon: Linkedin,
-    label: 'LinkedIn',
-    value: 'linkedin.com/chronostech',
-    href: '#',
-  },
-  {
+    
     icon: Phone,
     label: 'Phone',
-    value: '+1 (800) 555-0192',
-    href: 'tel:+18005550192',
+    value: '+447443743382',
+    href: 'tel:+447443743382',
   },
 ];
 
